@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://getbootstrap.com/docs/4.0/examples/blog/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,6 +15,10 @@
     <!-- Custom styles for this template -->
     <link href="adicional.css" rel="stylesheet">
     <link href="blog.css" rel="stylesheet">
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
   </head>
 
   <body cz-shortcut-listen="true">
